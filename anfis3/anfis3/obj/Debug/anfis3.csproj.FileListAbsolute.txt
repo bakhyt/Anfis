@@ -1,0 +1,7 @@
+c:\users\08mcm\source\repos\anfis3\anfis3\bin\Debug\anfis3.exe.config
+c:\users\08mcm\source\repos\anfis3\anfis3\bin\Debug\anfis3.exe
+c:\users\08mcm\source\repos\anfis3\anfis3\bin\Debug\anfis3.pdb
+c:\users\08mcm\source\repos\anfis3\anfis3\obj\Debug\anfis3.csprojResolveAssemblyReference.cache
+c:\users\08mcm\source\repos\anfis3\anfis3\obj\Debug\anfis3.csproj.CoreCompileInputs.cache
+c:\users\08mcm\source\repos\anfis3\anfis3\obj\Debug\anfis3.exe
+c:\users\08mcm\source\repos\anfis3\anfis3\obj\Debug\anfis3.pdb

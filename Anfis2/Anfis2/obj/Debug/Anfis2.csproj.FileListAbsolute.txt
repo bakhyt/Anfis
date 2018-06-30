@@ -1,0 +1,14 @@
+c:\users\08mcm\source\repos\Anfis2\Anfis2\bin\Debug\Anfis2.exe.config
+c:\users\08mcm\source\repos\Anfis2\Anfis2\bin\Debug\Anfis2.exe
+c:\users\08mcm\source\repos\Anfis2\Anfis2\bin\Debug\Anfis2.pdb
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.csprojResolveAssemblyReference.cache
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.Form1.resources
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.Properties.Resources.resources
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.csproj.GenerateResource.Cache
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.csproj.CoreCompileInputs.cache
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.exe
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.pdb
+c:\users\08mcm\source\repos\Anfis2\Anfis2\bin\Debug\Anfis2.exe.manifest
+c:\users\08mcm\source\repos\Anfis2\Anfis2\bin\Debug\Anfis2.application
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.exe.manifest
+c:\users\08mcm\source\repos\Anfis2\Anfis2\obj\Debug\Anfis2.application
